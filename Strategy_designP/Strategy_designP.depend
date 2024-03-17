@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1710670967 source:c:\users\acer\desktop\strategy_dp\strategy_designp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Strategy.h"
+	"HumbleStrategy.h"
+	"Material.h"
+
+1710672109 c:\users\acer\desktop\strategy_dp\strategy_designp\strategy.h
+	"Material.h"
+
+1710598022 c:\users\acer\desktop\strategy_dp\strategy_designp\material.h
+
+1710671550 c:\users\acer\desktop\strategy_dp\strategy_designp\humblestrategy.h
+	"Material.h"
+	"Strategy.h"
+
+1710671550 source:c:\users\acer\desktop\strategy_dp\strategy_designp\humblestrategy.h
+	"Material.h"
+	"Strategy.h"
+
+1710598262 source:c:\users\acer\desktop\strategy_dp\strategy_designp\material.c
+	<stdio.h>
+	<stdlib.h>
+	"Material.h"
+
+1710598022 source:c:\users\acer\desktop\strategy_dp\strategy_designp\material.h
+
+1710586387 source:c:\users\acer\desktop\strategy_dp\strategy_designp\player.c
+
+1710672109 source:c:\users\acer\desktop\strategy_dp\strategy_designp\strategy.h
+	"Material.h"
+
+1710672919 source:c:\users\acer\desktop\strategy_dp\strategy_designp\strategy.c
+	<stdio.h>
+	<stdlib.h>
+	"Strategy.h"
+
+1710673159 source:c:\users\acer\desktop\strategy_dp\strategy_designp\humblestrategy.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"HumbleStrategy.h"
+	"Strategy.h"
+
