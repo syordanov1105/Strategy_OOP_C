@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1710778550 source:c:\users\acer\desktop\strategy_dp\strategy_dp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Player.h"
+
+1710759140 source:c:\users\acer\desktop\strategy_dp\strategy_dp\vector.c
+	<stdio.h>
+	"Vector.h"
+
+1710759059 c:\users\acer\desktop\strategy_dp\strategy_dp\vector.h
+
+1710764666 source:c:\users\acer\desktop\strategy_dp\strategy_dp\material.c
+	<stdio.h>
+	"Material.h"
+
+1710764525 c:\users\acer\desktop\strategy_dp\strategy_dp\material.h
+
+1710769276 source:c:\users\acer\desktop\strategy_dp\strategy_dp\strategy.c
+	<stdio.h>
+	"Strategy.h"
+
+1710774609 c:\users\acer\desktop\strategy_dp\strategy_dp\strategy.h
+	"Vector.h"
+	"Material.h"
+
+1710778371 source:c:\users\acer\desktop\strategy_dp\strategy_dp\humblestrategy.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"HumbleStrategy.h"
+
+1710774226 c:\users\acer\desktop\strategy_dp\strategy_dp\humblestrategy.h
+	"Strategy.h"
+
+1710777316 source:c:\users\acer\desktop\strategy_dp\strategy_dp\player.c
+	<stdio.h>
+	"Player.h"
+
+1710777382 c:\users\acer\desktop\strategy_dp\strategy_dp\player.h
+	"Strategy.h"
+
+1710778377 source:c:\users\acer\desktop\strategy_dp\strategy_dp\greedystrategy.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GreedyStrategy.h"
+
+1710778056 c:\users\acer\desktop\strategy_dp\strategy_dp\greedystrategy.h
+	"Strategy.h"
+
